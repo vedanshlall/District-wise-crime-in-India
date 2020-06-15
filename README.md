@@ -1,8 +1,12 @@
 # District-wise-crime-in-India
 DESCRIPTION
+
 State-wise data from 2014 is classified according to 40+factors. 
+
 SUMMARY
+
 Context
+
 This dataset contains complete information about various aspects of crimes happened in India in 2014. There are many factors that can be analysed from this dataset. Over all, I hope this dataset helps us to understand better about India.
 
 Content
